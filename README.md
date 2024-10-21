@@ -1,5 +1,4 @@
-Kim Jeiro Lumalang
-BSIT 3206
+
 
 <!---
 KJLumalang/KJLumalang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
